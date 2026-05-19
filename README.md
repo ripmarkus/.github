@@ -1,10 +1,11 @@
----
 
 # ripmarkus
 
 A DevOps project built at EK, modernizing a legacy Python 2 search engine into a production-grade Ruby/Sinatra application with full CI/CD and monitoring.
 
 Visit our documentation [here](https://ripmarkus.github.io/whoknows_ripmarkus/)
+
+---
 
 ## The Stack
 
@@ -16,6 +17,8 @@ Visit our documentation [here](https://ripmarkus.github.io/whoknows_ripmarkus/)
 | Monitoring | Prometheus, Grafana |
 | Infrastructure | Terraform, Hetzner Cloud |
 | Target orchestration | Kubernetes (Talos Linux) |
+
+---
 
 ## Repositories
 
